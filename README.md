@@ -1,3 +1,3 @@
 # SAAM-project
 
-Portfolio optimization project with various carbon constraints
+Group project where we performed a mean-variance portfolio optimization project with various carbon constraints
